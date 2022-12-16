@@ -14,7 +14,7 @@
 
     <properties>
         <spring.version>5.3.20</spring.version>
-        <java.version>17</java.version>
+        <java.version>19</java.version>
         <junit.version>4.12</junit.version>
         <findbugs.version>3.0.5</findbugs.version>
         <pmd.version>6.46.0</pmd.version>
